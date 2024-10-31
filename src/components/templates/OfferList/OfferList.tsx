@@ -26,10 +26,10 @@ export const OfferList = ({ offers }: Props) => (
     {offers.map((offer) => (
       <Offer key={offer.title}>
         {offer.invoice && <Offer.Invoice />}
-        <Link href={`/oferta/${offer.id}`}>
+        <Link href={`/mobil/${offer.id}`}>
           <Offer.Image image={offer.gallery[0]} />
         </Link>
-        <Offer.Header href={`/oferta/${offer.id}`} title={offer.title} />
+        <Offer.Header href={`/mobil/${offer.id}`} title={offer.title} />
         {offer.features.length > 0 && (
           <Offer.FeaturesList>
             {offer.features.map((feature) => (
@@ -41,7 +41,7 @@ export const OfferList = ({ offers }: Props) => (
         )}
         <Offer.Footer>
           <Offer.Footer.PriceTag price={offer.price} type="brutto" />
-          <Offer.Footer.Link href={`/oferta/${offer.id}`} />
+          <Offer.Footer.Link href={`/mobil/${offer.id}`} />
         </Offer.Footer>
       </Offer>
     ))}

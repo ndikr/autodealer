@@ -2,7 +2,7 @@ import { OfferPage } from "@/components/pages/OfferPage/OfferPage";
 import offers from "@/data/offers.json";
 
 export const metadata = {
-  title: "oferta",
+  title: "Mobil Tersedia",
 };
 
 export default function Page() {

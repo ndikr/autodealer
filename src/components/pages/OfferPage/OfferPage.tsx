@@ -11,12 +11,13 @@ type Props = {
 export const OfferPage = ({ offers }: Props) => {
   return (
     <>
-      <HedaerSection title="Oferta" />
+      <HedaerSection title="Pilihan Mobil" />
       <Main>
-        <OffersSection offers={offers} title="Obecnie dostępne modele" />
+        <OffersSection offers={offers} title="Model yang tersedia saat ini" />
         <BannerSection
-          title="Już dzisiaj znajdź dla siebie wymarzone auto!"
-          button={{ label: "Zobacz naszą ofetę", href: "/oferta" }}
+          title="Temukan mobil impian Anda hari ini!"
+          button={{ label: "Lihat Daftar Mobil", href: "/mobil" }}
+        />
         />
       </Main>
     </>

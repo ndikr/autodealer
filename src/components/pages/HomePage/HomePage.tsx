@@ -18,8 +18,8 @@ export const HomePage = () => {
           title="Zobacz polecane modele"
         />
         <BannerSection
-          title="Już dzisiaj znajdź dla siebie wymarzone auto!"
-          button={{ label: "Zobacz naszą ofetę", href: "/oferta" }}
+          title="Temukan mobil impian Anda hari ini!"
+          button={{ label: "Lihat Daftar Mobil", href: "/mobil" }}
         />
       </Main>
     </>
