@@ -14,6 +14,7 @@ type Props = {
     sold: boolean;
     invoice: boolean;
     title: string;
+    description: string;
     features: {
       label: string;
       value: string;
@@ -31,6 +32,7 @@ type Props = {
     sold: boolean;
     invoice: boolean;
     title: string;
+    description: string;
     features: {
       label: string;
       value: string;
