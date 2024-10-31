@@ -18,7 +18,6 @@ export const OfferPage = ({ offers }: Props) => {
           title="Temukan mobil impian Anda hari ini!"
           button={{ label: "Lihat Daftar Mobil", href: "/mobil" }}
         />
-        />
       </Main>
     </>
   );
