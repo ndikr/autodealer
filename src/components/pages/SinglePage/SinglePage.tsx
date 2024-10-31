@@ -7,6 +7,7 @@ import { BannerSection } from "@/components/sections/BannerSection/BannerSection
 import { RecommendedOffersSection } from "@/components/sections/RecommendedOffersSection/RecommendedOffersSection";
 import { formatCurrency } from "@/utils/formatCurrency";
 import { twMerge } from "tailwind-merge";
+import { FeatureDescription } from "./FeatureDescription";
 
 type Props = {
   offer: {

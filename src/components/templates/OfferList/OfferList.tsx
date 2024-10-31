@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Offer } from "@/components/blocks/Offer/Offer";
+import { FeatureDescription } from "./FeatureDescription";
 
 type Props = {
   offers: {
