@@ -4,14 +4,14 @@
     "sold": false,
     "invoice": true,
     "title": "Mercedes s500 amg aso",
+    "description": "Mercedes S500 AMG ASO tahun 2009 ini adalah limusin mewah dengan performa tangguh. Memiliki mesin berkapasitas 3.0L yang menghasilkan daya 235 KM, mobil ini telah menempuh 139.000 km. Hadir dalam warna abu-abu metalik yang elegan, mobil ini menawarkan kenyamanan kelas atas.",
     "features": [
       { "label": "Rocznik", "value": "2009" },
       { "label": "Moc", "value": "235 KM" },
       { "label": "Przebieg", "value": "139 000 km" },
       { "label": "Pojemność silnika", "value": "3.0" },
       { "label": "Kolor", "value": "Szary metalik" },
-      { "label": "Typ", "value": "limuzyna" },
-      { "label": "Typ" }
+      { "label": "Typ", "value": "limuzyna" }
     ],
     "price": 229000,
     "gallery": [
