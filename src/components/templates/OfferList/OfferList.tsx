@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { Offer } from "@/components/blocks/Offer/Offer";
-import { FeatureDescription } from "./FeatureDescription";
 
 type Props = {
   offers: {
@@ -8,7 +7,6 @@ type Props = {
     sold: boolean;
     invoice: boolean;
     title: string;
-    description: string;
     features: {
       label: string;
       value: string;
