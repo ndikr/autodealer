@@ -24,7 +24,7 @@ export const Navbar = () => {
           <Navbar.Menu id={menuID} isMobileMenuOpen={isMobileMenuOpen}>
             <Navbar.Menu.Item
               onClick={closeMobileMenu}
-              label="O nas"
+              label="Home"
               href="/"
             />
             <Navbar.Menu.Item
