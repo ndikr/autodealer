@@ -24,7 +24,7 @@ export const HeroSection = () => {
           </p>
           <div className="flex flex-row flex-wrap gap-2 justify-center md:justify-start mt-2">
             <LinkAsButton href="/mobil" buttonStyle="primary">
-              Pilihan Mobil
+              Mobil Tersedia
             </LinkAsButton>
             <LinkAsButton href="/kontakt" buttonStyle="white">
               Kontakt

@@ -11,7 +11,7 @@ type Props = {
 export const OfferPage = ({ offers }: Props) => {
   return (
     <>
-      <HedaerSection title="Pilihan Mobil" />
+      <HedaerSection title="Mobil Tersedia" />
       <Main>
         <OffersSection offers={offers} title="Model yang tersedia saat ini" />
         <BannerSection
