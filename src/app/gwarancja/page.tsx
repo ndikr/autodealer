@@ -1,7 +1,7 @@
 import { ContentPage } from "@/components/pages/ContentPage/ContentPage";
 
 export const metadata = {
-  title: "gwarancja",
+  title: "garansi",
 };
 
 export default function Page() {
