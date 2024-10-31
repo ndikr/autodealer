@@ -7,7 +7,6 @@ import { BannerSection } from "@/components/sections/BannerSection/BannerSection
 import { RecommendedOffersSection } from "@/components/sections/RecommendedOffersSection/RecommendedOffersSection";
 import { formatCurrency } from "@/utils/formatCurrency";
 import { twMerge } from "tailwind-merge";
-import { FeatureDescription } from "./FeatureDescription";
 
 type Props = {
   offer: {
@@ -15,7 +14,6 @@ type Props = {
     sold: boolean;
     invoice: boolean;
     title: string;
-    description: string;
     features: {
       label: string;
       value: string;

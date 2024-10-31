@@ -4,7 +4,6 @@ import { Container } from "@/components/blocks/Container/Container";
 import { GridList } from "@/components/blocks/GridList/GridList";
 import { useId } from "react";
 import { OfferList } from "@/components/templates/OfferList/OfferList";
-import { FeatureDescription } from "./FeatureDescription";
 
 type Props = {
   title: string;
@@ -13,7 +12,6 @@ type Props = {
     sold: boolean;
     invoice: boolean;
     title: string;
-    description: string;
     features: {
       label: string;
       value: string;
