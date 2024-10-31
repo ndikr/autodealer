@@ -7,8 +7,8 @@ export const metadata = {
 export default function Page() {
   return (
     <ContentPage
-      title="Gwarancja"
-      subtitle="Wychodząć na przeciw oczekiwaniom klientów oferujemy możliwośc dokupienia dodatkowe gwarancji na okres od 1 do 24 miesięcy"
+      title="Garansi"
+      subtitle="Untuk memenuhi harapan pelanggan, kami menawarkan pilihan pembelian garansi tambahan dengan jangka waktu antara 1 hingga 24 bulan."
       content={
         <>
           <p>
