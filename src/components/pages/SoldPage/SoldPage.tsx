@@ -18,9 +18,8 @@ export const SoldPage = ({ soldByCategory }: Props) => {
   return (
     <>
       <HedaerSection
-        title="Sprzedaliśmy"
-        description="Zapraszam do obejrzenia ciekawych samochodów jakie zostały zakupione
-            w firmie AUTO-Handel. Modele wyselekcjonowane wg. marek."
+        title="Mobil Terjual"
+        description="Daftar Mobil yang Telah Berhasil Kami Jual dengan Kepuasan Pelanggan"
       />
       <Main>
         <Section ariaLabelledby="categories">
