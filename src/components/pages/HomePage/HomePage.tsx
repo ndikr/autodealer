@@ -15,7 +15,7 @@ export const HomePage = () => {
         <FeaturesSection />
         <RecommendedOffersSection
           offers={offersFromJSON.slice(0, 3)}
-          title="Zobacz polecane modele"
+          title="Mobil Tersedia"
         />
         <BannerSection
           title="Temukan mobil impian Anda hari ini!"
