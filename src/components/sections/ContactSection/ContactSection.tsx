@@ -22,8 +22,8 @@ export const ContactSection = () => {
               <FaPhoneAlt />
             </Metrics.Item.Number>
             <Metrics.Item.Description>
-              <Metrics.Link href="tel:+48123456789">
-                +48 123 456 789
+              <Metrics.Link href="https://api.whatsapp.com/send?phone=62882005295050&text=Assalamualaikum%20mas%20Ulil,%20Saya%20berminat%20menggunakan%20Jasa%20%20Pembuatan%20Website,%20bisa%20tolong%20dibantu?">
+              +62 882-0052-95050
               </Metrics.Link>
             </Metrics.Item.Description>
           </Metrics.Item>

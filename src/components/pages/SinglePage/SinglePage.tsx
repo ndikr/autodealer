@@ -127,8 +127,8 @@ export const SinglePage = ({ offer, recommendedOffers }: Props) => {
                   )}
                 </div>
                 <div className="flex flex-col flex-wrap flex-wrap justify-center gap-2">
-                  <LinkAsButton href="tel:+48123456789" buttonStyle="white">
-                    <span className="font-bold">Zadźwoń:</span>+48 123 456 789
+                  <LinkAsButton href="https://api.whatsapp.com/send?phone=62882005295050&text=Assalamualaikum%20mas%20Ulil,%20Saya%20berminat%20menggunakan%20Jasa%20%20Pembuatan%20Website,%20bisa%20tolong%20dibantu?" buttonStyle="white">
+                    <span className="font-bold">Whatsapp:</span>+62 882-0052-95050
                   </LinkAsButton>
                 </div>
               </section>
