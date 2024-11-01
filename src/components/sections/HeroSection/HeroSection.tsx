@@ -26,8 +26,8 @@ export const HeroSection = () => {
             <LinkAsButton href="/mobil" buttonStyle="primary">
               Mobil Tersedia
             </LinkAsButton>
-            <LinkAsButton href="/kontakt" buttonStyle="white">
-              Kontakt
+            <LinkAsButton href="/kontak" buttonStyle="white">
+              Kontak
             </LinkAsButton>
           </div>
         </div>

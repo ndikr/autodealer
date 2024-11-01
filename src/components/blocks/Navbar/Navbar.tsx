@@ -49,8 +49,8 @@ export const Navbar = () => {
             />
             <Navbar.Menu.Item
               onClick={closeMobileMenu}
-              label="Kontakt"
-              href="/kontakt"
+              label="Kontak"
+              href="/kontak"
             />
             <Navbar.Menu.Item
               label="+62 882-0052-95050"

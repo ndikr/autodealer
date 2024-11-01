@@ -6,7 +6,7 @@ import { HedaerSection } from "@/components/sections/HeaderSection/HeaderSection
 export const ContactPage = () => {
   return (
     <>
-      <HedaerSection title="Kontakt" />
+      <HedaerSection title="Kontak" />
       <Main>
         <ContactSection />
         <BannerSection
