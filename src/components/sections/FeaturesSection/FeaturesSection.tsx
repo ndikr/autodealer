@@ -29,10 +29,10 @@ export const FeaturesSection = () => {
               <Feature.Icon>
                 <FaTachometerAlt />
               </Feature.Icon>
-              <Feature.Title>Kilometer yang Terukur dan Terverifikasi</Feature.Title>
+              <Feature.Title>Kilometer yangTerverifikasi</Feature.Title>
             </Feature.Header>
             <Feature.Description>
-            Kami menyediakan kendaraan dengan catatan kilometer yang jelas dan terjamin. Setiap mobil telah melalui proses verifikasi untuk memastikan bahwa informasi kilometer yang diberikan akurat, memberikan kepercayaan lebih bagi Anda dalam memilih kendaraan yang tepat.
+            Kami menyediakan kendaraan dengan catatan kilometer yang jelas dan terjamin. Setiap mobil telah melalui proses verifikasi untuk memastikan bahwa informasi kilometer yang diberikan akurat.
             </Feature.Description>
           </Feature>
           <Feature>
