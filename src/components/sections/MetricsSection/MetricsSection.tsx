@@ -23,13 +23,13 @@ export const MetricsSection = () => {
           <Metrics.Item bg="primary-dark">
             <Metrics.Item.Number>8</Metrics.Item.Number>
             <Metrics.Item.Description>
-              Tahun Kami Memberi Kepuasan kepada Setiap Pelanggan.
+              Tahun Kami Memberi Kepuasan kepada Setiap Konsumen.
             </Metrics.Item.Description>
           </Metrics.Item>
           <Metrics.Item bg="primary">
             <Metrics.Item.Number>+480</Metrics.Item.Number>
             <Metrics.Item.Description>
-            Pelanggan yang Puas
+            Konsumen yang Puas
             </Metrics.Item.Description>
           </Metrics.Item>
           <Metrics.Item bg="primary-light">

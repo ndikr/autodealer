@@ -8,7 +8,7 @@ export default function Page() {
   return (
     <ContentPage
       title="Garansi"
-      subtitle="Untuk memenuhi harapan pelanggan, kami menawarkan pilihan pembelian garansi tambahan dengan jangka waktu antara 1 hingga 24 bulan."
+      subtitle="Untuk memenuhi harapan Konsumen, kami menawarkan pilihan pembelian garansi tambahan dengan jangka waktu antara 1 hingga 24 bulan."
       content={
         <>
           <p>

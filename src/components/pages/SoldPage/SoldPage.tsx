@@ -19,7 +19,7 @@ export const SoldPage = ({ soldByCategory }: Props) => {
     <>
       <HedaerSection
         title="Mobil Terjual"
-        description="Daftar Mobil yang Telah Berhasil Kami Jual dengan Kepuasan Pelanggan"
+        description="Daftar Mobil yang Telah Berhasil Kami Jual dengan Kepuasan Konsumen"
       />
       <Main>
         <Section ariaLabelledby="categories">
