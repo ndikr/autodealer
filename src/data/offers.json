@@ -3,79 +3,60 @@
     "id": "0",
     "sold": false,
     "invoice": true,
-    "title": "Mercedes s500 amg aso",
+    "title": "Daihatsu Sigra 2024",
     "features": [
-      { "label": "Rocznik", "value": "2009" },
-      { "label": "Moc", "value": "235 KM" },
-      { "label": "Przebieg", "value": "139 000 km" },
-      { "label": "Pojemność silnika", "value": "3.0" },
-      { "label": "Kolor", "value": "Szary metalik" },
-      { "label": "Typ", "value": "limuzyna" }
+      { "label": "Kapasitas tangki bahan bakar", "value": "36 liter" },
+      { "label": "Berat bersih", "value": "920 kg" },
+      { "label": "Berat kotor", "value": "1480 kg" },
+      { "label": "Panjang", "value": "4110 mm" },
+      { "label": "Lebar", "value": "1655 mm" },
+      { "label": "Tinggi", "value": "1600 mm" },
+      { "label": "Jarak sumbu roda", "value": "2525 mm" },
+      { "label": "Ground clearance", "value": "180 mm" },
+      { "label": "Radius putar", "value": "4.5 m" },
+      { "label": "Jumlah pintu", "value": "5" },
+      { "label": "Kapasitas tempat duduk", "value": "7 kursi" }
     ],
-    "price": 229000,
+    "price": 139000000,
     "gallery": [
       {
-        "src": "/offer/0/1.webp",
+        "src": "/offer/0/daihatsu-sigra-side-view-508620",
         "width": 800,
         "height": 600,
-        "alt": "Mercedes s500 amg aso"
+        "alt": "Daihatsu Sigra 2024"
       },
       {
-        "src": "/offer/0/2.webp",
+        "src": "/offer/0/daihatsu-sigra-rear-medium-side-view-383641",
         "width": 800,
         "height": 600,
-        "alt": "Mercedes s500 amg aso"
+        "alt": "Daihatsu Sigra 2024"
       },
       {
-        "src": "/offer/0/3.webp",
+        "src": "/offer/0/daihatsu-sigra-headlight-787934",
         "width": 800,
         "height": 600,
-        "alt": "Mercedes s500 amg aso"
+        "alt": "Daihatsu Sigra 2024"
       },
       {
-        "src": "/offer/0/4.webp",
+        "src": "/offer/0/daihatsu-sigra-full-rear-view-552968",
         "width": 800,
         "height": 600,
-        "alt": "Mercedes s500 amg aso"
+        "alt": "Daihatsu Sigra 2024"
       },
       {
-        "src": "/offer/0/5.webp",
+        "src": "/offer/0/daihatsu-sigra-full-front-view-584312",
         "width": 800,
         "height": 600,
-        "alt": "Mercedes s500 amg aso"
+        "alt": "Daihatsu Sigra 2024"
       },
       {
-        "src": "/offer/0/6.webp",
+        "src": "/offer/0/daihatsu-sigra-front-angle-low-view-282430",
         "width": 800,
         "height": 600,
-        "alt": "Mercedes s500 amg aso"
+        "alt": "Daihatsu Sigra 2024"
       },
       {
-        "src": "/offer/0/7.webp",
-        "width": 800,
-        "height": 600,
-        "alt": "Mercedes s500 amg aso"
-      },
-      {
-        "src": "/offer/0/8.webp",
-        "width": 800,
-        "height": 600,
-        "alt": "Mercedes s500 amg aso"
-      },
-      {
-        "src": "/offer/0/9.webp",
-        "width": 800,
-        "height": 600,
-        "alt": "Mercedes s500 amg aso"
-      },
-      {
-        "src": "/offer/0/10.webp",
-        "width": 800,
-        "height": 600,
-        "alt": "Mercedes s500 amg aso"
-      },
-      {
-        "src": "/offer/0/11.webp",
+        "src": "/offer/0/daihatsu-sigra-dashboard-view-218223",
         "width": 800,
         "height": 600,
         "alt": "Mercedes s500 amg aso"
