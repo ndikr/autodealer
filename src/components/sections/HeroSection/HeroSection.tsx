@@ -16,11 +16,10 @@ export const HeroSection = () => {
       <div className="flex flex-col md:flex-row gap-10 items-center text-center md:text-start">
         <div className="flex flex-col gap-4 flex-1">
           <Heading as="h2" size="lg" id={sectionTitleID}>
-            Samochody z Polskiej sieci dealerskiej
+           Temukan Mobil Impian Anda di Sini!
           </Heading>
           <p>
-            W swojej ofercie posiada samochody pochodzące z polskiej sieci
-            dealerskiej oraz luksusowe samochody od niemieckich dealerów.
+          elajahi Koleksi Mobil Berkualitas, Harga Terbaik Keunggulan dan Kenyamanan dalam Setiap Perjalanan!
           </p>
           <div className="flex flex-row flex-wrap gap-2 justify-center md:justify-start mt-2">
             <LinkAsButton href="/mobil" buttonStyle="primary">
