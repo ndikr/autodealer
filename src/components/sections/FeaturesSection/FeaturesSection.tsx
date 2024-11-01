@@ -20,7 +20,7 @@ export const FeaturesSection = () => {
       <Container>
         <header className="text-center">
           <Heading as="h2" size="md" id={sectionTitleID}>
-            Dlaczego warto nam zaufać?
+          Mengapa Memilih AutoDealer
           </Heading>
         </header>
         <GridList margin="top">
@@ -29,12 +29,10 @@ export const FeaturesSection = () => {
               <Feature.Icon>
                 <FaTachometerAlt />
               </Feature.Icon>
-              <Feature.Title>Udokumentowane przebiegi</Feature.Title>
+              <Feature.Title>Kilometer yang Terukur dan Terverifikasi</Feature.Title>
             </Feature.Header>
             <Feature.Description>
-              Firma AUTO-HANDEL oferuje kompleksową obsługę finansowania
-              zakupionych pojazdów w firmie jak i z własnego źródła zarówno w
-              kredycie jak i leasingu.
+            Kami menyediakan kendaraan dengan catatan kilometer yang jelas dan terjamin. Setiap mobil telah melalui proses verifikasi untuk memastikan bahwa informasi kilometer yang diberikan akurat, memberikan kepercayaan lebih bagi Anda dalam memilih kendaraan yang tepat.
             </Feature.Description>
           </Feature>
           <Feature>
@@ -42,12 +40,10 @@ export const FeaturesSection = () => {
               <Feature.Icon>
                 <FaUser />
               </Feature.Icon>
-              <Feature.Title>Pierwszy właściciel</Feature.Title>
+              <Feature.Title>Pemilik Pertama</Feature.Title>
             </Feature.Header>
             <Feature.Description>
-              Większoś oferowanyc aut posiadała jednego właściiela od nowości,
-              dzięki czemu auta są zadbane, a ich historia serwisowa jest
-              doskonale udokumentowana.
+            Sebagian besar mobil yang ditawarkan adalah satu pemilik sejak baru, terawat dengan baik, dan memiliki riwayat servis yang jelas.
             </Feature.Description>
           </Feature>
           <Feature>
@@ -55,12 +51,10 @@ export const FeaturesSection = () => {
               <Feature.Icon>
                 <FaFlag />
               </Feature.Icon>
-              <Feature.Title>Jasne pochodzenie</Feature.Title>
+              <Feature.Title>Asal yang Jelas</Feature.Title>
             </Feature.Header>
             <Feature.Description>
-              Auta pochodzą od polskich autoryzowanych delearów oraz
-              sprawdzonych niemieckich salonów. Każdy samochód musi spełniać
-              restrykcyjne wymogi aby znalazł się w naszej ofercie
+            Kendaraan kami berasal dari dealer resmi dan showroom terverifikasi. Setiap mobil harus memenuhi standar ketat sebelum ditawarkan dalam koleksi kami.
             </Feature.Description>
           </Feature>
           <Feature>
@@ -68,12 +62,10 @@ export const FeaturesSection = () => {
               <Feature.Icon>
                 <FaWrench />
               </Feature.Icon>
-              <Feature.Title>Książka serwisowa</Feature.Title>
+              <Feature.Title>Buku Servis</Feature.Title>
             </Feature.Header>
             <Feature.Description>
-              Jasna i przejżyszta historia sprzedawanych przez nas aut to
-              podstawa, dlatego dbamy, aby każfy samochód bez wyjątku posiadał
-              oryginalną ksiązkę serwisową.
+            Kami menjamin riwayat yang jelas dan transparan untuk setiap mobil yang kami jual, dengan semua kendaraan dilengkapi buku servis asli.
             </Feature.Description>
           </Feature>
           <Feature>
@@ -81,12 +73,10 @@ export const FeaturesSection = () => {
               <Feature.Icon>
                 <FaShieldAlt />
               </Feature.Icon>
-              <Feature.Title>Dodatkowa gwarancja</Feature.Title>
+              <Feature.Title>Garansi Tambahan</Feature.Title>
             </Feature.Header>
             <Feature.Description>
-              Wychodząć na przeciw oczekiwaniom klientów oferujemy możliwośc
-              dokupienia dodatkowe gwarancji na okres od 1 do 24 miesięcy.
-              Szczególowe informacje w zakładce gwarancja.
+            Untuk memenuhi harapan pelanggan, kami menawarkan opsi pembelian garansi tambahan dengan periode dari 1 hingga 24 bulan. Informasi lebih lanjut melalui Whatsapp.
             </Feature.Description>
           </Feature>
           <Feature>
@@ -94,12 +84,10 @@ export const FeaturesSection = () => {
               <Feature.Icon>
                 <FaCar />
               </Feature.Icon>
-              <Feature.Title>Sprawdzone modele</Feature.Title>
+              <Feature.Title>Kualitas Terjamin</Feature.Title>
             </Feature.Header>
             <Feature.Description>
-              Samochody są sprawdzane pod kątem ewentualnych uszkodzeń, wad tak
-              aby odpowiadały naszym standardom jakości - sprzedajemy tylko
-              sprawdzone auta!
+            Kendaraan diperiksa untuk mendeteksi kemungkinan kerusakan atau cacat, sehingga memenuhi standar kualitas, kami hanya menjual mobil yang telah terverifikasi!
             </Feature.Description>
           </Feature>
         </GridList>
