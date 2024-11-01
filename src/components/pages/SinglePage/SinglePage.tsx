@@ -85,13 +85,6 @@ export const SinglePage = ({ offer, recommendedOffers }: Props) => {
                   </table>
                 </section>
               </div>
-              <section className="p-8 bg-white shadow" aria-labelledby="opis">
-                <header className="sr-only">
-                  <Heading as="h2" size="base" id="opis" hidden>
-                    Opis
-                  </Heading>
-                </header>
-              </section>
             </div>
             <div className="col-span-12 md:col-span-5 flex flex-col gap-3 md:gap-6 order-1 md:order-2">
               <section
