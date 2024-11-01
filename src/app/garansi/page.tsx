@@ -14,7 +14,7 @@ export default function Page() {
           <p>
             Lorem ipsum dolor, sit amet consectetur adipisicing elit.
             Reprehenderit dd laborum nisi voluptates atque vero
-            consectetur ddd cum a excepturi officiis nam incidunt quae
+            consectetur cum a excepturi officiis nam incidunt quae
             iusto, pariatur cupiditate harum molestiae odio.
           </p>
           <p>
