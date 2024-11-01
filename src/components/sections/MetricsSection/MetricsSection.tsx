@@ -21,21 +21,21 @@ export const MetricsSection = () => {
         </header>
         <Metrics>
           <Metrics.Item bg="primary-dark">
-            <Metrics.Item.Number>21</Metrics.Item.Number>
+            <Metrics.Item.Number>8</Metrics.Item.Number>
             <Metrics.Item.Description>
-              lat doświadczenia w branży
+              Tahun Kami Memberi Kepuasan kepada Setiap Pelanggan.
             </Metrics.Item.Description>
           </Metrics.Item>
           <Metrics.Item bg="primary">
             <Metrics.Item.Number>+480</Metrics.Item.Number>
             <Metrics.Item.Description>
-              zadowolonych klientów
+            Pelanggan yang Puas
             </Metrics.Item.Description>
           </Metrics.Item>
           <Metrics.Item bg="primary-light">
             <Metrics.Item.Number>24</Metrics.Item.Number>
             <Metrics.Item.Description>
-              nawet do 24 miesięcy dodatkowej gwarancji
+            Kami Memberi Hingga 24 Bulan Garansi
             </Metrics.Item.Description>
           </Metrics.Item>
         </Metrics>
