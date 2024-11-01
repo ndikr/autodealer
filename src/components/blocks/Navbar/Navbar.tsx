@@ -44,8 +44,8 @@ export const Navbar = () => {
             />
             <Navbar.Menu.Item
               onClick={closeMobileMenu}
-              label="Sprzedaliśmy"
-              href="/sprzedalismy"
+              label="Terjual"
+              href="/terjual"
             />
             <Navbar.Menu.Item
               onClick={closeMobileMenu}
