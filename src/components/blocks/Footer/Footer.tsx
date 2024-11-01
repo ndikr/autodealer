@@ -7,7 +7,8 @@ export const Footer = memo(() => {
   return (
     <footer className="bg-zinc-800 text-white text-center py-8">
       <Container>
-        <p>Grzegorz Pokorski © {actualYear}</p>
+        <p>AutoDealer © {actualYear}</p>
+        <p>Ds. Trengguli RT01 RW07 Kec. Wonosalam Kab. Demak. Jawa Tengah Kode Pos 59571</p>
       </Container>
     </footer>
   );

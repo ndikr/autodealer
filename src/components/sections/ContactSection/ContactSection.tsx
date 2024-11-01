@@ -32,8 +32,8 @@ export const ContactSection = () => {
               <FaMailBulk />
             </Metrics.Item.Number>
             <Metrics.Item.Description>
-              <Metrics.Link href="mailto:mail@yoursuperbcompany.com">
-                mail@yoursuperbcompany.com
+              <Metrics.Link href="mailto:ndikr@gmail.com">
+                ndikr@gmail.com
               </Metrics.Link>
             </Metrics.Item.Description>
           </Metrics.Item>
