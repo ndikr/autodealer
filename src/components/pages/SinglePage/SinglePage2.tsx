@@ -31,7 +31,6 @@ type Props = {
     sold: boolean;
     invoice: boolean;
     title: string;
-    description: string;
     features: {
       label: string;
       value: string;
@@ -92,7 +91,6 @@ export const SinglePage = ({ offer, recommendedOffers }: Props) => {
                     Opis
                   </Heading>
                 </header>
-<<<<<<< HEAD
                 <div className="prose max-w-none">
                   <p>
                     Samochód zakupiłem w salonie Mercedesa w Niemczech osobiście
@@ -123,9 +121,6 @@ export const SinglePage = ({ offer, recommendedOffers }: Props) => {
                     </li>
                   </ul>
                 </div>
-=======
-
->>>>>>> d204da5b60f283a31623f3a6e15ebf983c57e191
               </section>
             </div>
             <div className="col-span-12 md:col-span-5 flex flex-col gap-3 md:gap-6 order-1 md:order-2">
