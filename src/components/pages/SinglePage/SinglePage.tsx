@@ -131,7 +131,7 @@ export const SinglePage = ({ offer, recommendedOffers }: Props) => {
         </Container>
         <RecommendedOffersSection
           offers={recommendedOffers}
-          title="Zobacz również inne modele"
+          title="Model Lainnya"
           cta={false}
         />
         <BannerSection
