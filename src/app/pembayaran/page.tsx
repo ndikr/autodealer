@@ -1,14 +1,14 @@
 import { ContentPage } from "@/components/pages/ContentPage/ContentPage";
 
 export const metadata = {
-  title: "finansowanie",
+  title: "Pembayaran",
 };
 
 export default function Page() {
   return (
     <ContentPage
-      title="Finansowanie"
-      subtitle="Firma AutoDealer oferuje kompleksową obsługę finansowania zakupionych pojazdów w firmie jak i z własnego źródła zarówno w kredycie jak i leasingu."
+      title="Pembayaran"
+      subtitle="Kami menawarkan layanan pembiayaan lengkap untuk kendaraan yang dibeli, baik melalui perusahaan maupun sumber pribadi, dengan opsi kredit maupun leasing."
       content={
         <>
           <p>
