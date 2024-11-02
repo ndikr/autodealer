@@ -150,7 +150,7 @@ export const SinglePage = ({ offer, recommendedOffers }: Props) => {
                     </>
                   ) : (
                     <p className="flex flex-row justify-between">
-                      Cena:
+                      Harga:
                       <span className="font-bold">
                         {formatCurrency(offer.price)}
                       </span>

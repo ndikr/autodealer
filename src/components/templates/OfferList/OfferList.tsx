@@ -40,7 +40,7 @@ export const OfferList = ({ offers }: Props) => (
           </Offer.FeaturesList>
         )}
         <Offer.Footer>
-          <Offer.Footer.PriceTag price={offer.price} type="netto" />
+          <Offer.Footer.PriceTag price={offer.price} type="harga" />
           <Offer.Footer.Link href={`/mobil/${offer.id}`} />
         </Offer.Footer>
       </Offer>

@@ -2,7 +2,7 @@ import { formatCurrency } from "@/utils/formatCurrency";
 
 type Props = {
   price: number;
-  type: "netto";
+  type: "harga";
 };
 
 export const OfferFooterPriceTag = ({ price, type }: Props) => (
