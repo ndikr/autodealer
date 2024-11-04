@@ -6,6 +6,6 @@ type Props = {
 
 export const OfferFooterLink = ({ href }: Props) => (
   <LinkAsButton href={href} buttonStyle="primary">
-    Przejdź do oferty
+    Lihat Detail
   </LinkAsButton>
 );
